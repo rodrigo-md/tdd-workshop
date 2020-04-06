@@ -7,7 +7,7 @@ import RutInput from "../RutInput";
  * COMO Usuario de banco al intentar ingresar mi Rut NECESITO verlo formateado
  * PARA facilitar el ingreso de los digitos
  *
- * Criterios de Aceptacion
+ * Criterios de aceptacion
  *
  * 1. El input solo debe aceptar digitos y el caracter K o k
  * 2. El maximo numero de digitos es de 9
